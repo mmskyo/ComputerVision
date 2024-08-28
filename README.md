@@ -1,6 +1,6 @@
 # Computer Vision and Deep Learning
 
-## recognizing nature image using CIFAR10
+## recognizing image using CIFAR10
 
 accuracy and loss graph
 
