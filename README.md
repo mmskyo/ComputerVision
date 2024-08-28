@@ -1,4 +1,25 @@
-# 컴퓨터 비전과 딥러닝
+# Computer Vision and Deep Learning
+
+## recognizing nature image using CIFAR10
+
+accuracy and loss graph
+![CIFAR_accuracy](https://github.com/user-attachments/assets/7fc30d71-35d7-4750-9f5a-1eebd2188e0a)
+![CIFAR_loss](https://github.com/user-attachments/assets/72748bf7-c2f0-458d-b6e2-1749328bb5e7)
+
+what console looks like
+![CIFAR__console](https://github.com/user-attachments/assets/a8dff7d6-0e65-4d63-b0c8-1e1b94d2dc51)
+
+## ResNet50
+
+result being
+![ResNet50_result](https://github.com/user-attachments/assets/8100bf36-787a-4259-99e9-9d747cc2074e)
+
+## Sequential module - postcode recognition program
+using pre-trained model 'cnn_v2'
+![postcode_v 2_result](https://github.com/user-attachments/assets/1fe0f413-61de-4981-a10f-9943f6b31b5c)
+
+
+# 개념
 
 ## 컨볼루션 신경망을 이용한 자연 영상 인식
 
