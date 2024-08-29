@@ -1,5 +1,5 @@
 # Computer Vision and Deep Learning
-
+it would be nice if you visit other branches as well since this is for the overall study on cnn layers
 ## recognizing image using CIFAR10
 
 accuracy and loss graph
