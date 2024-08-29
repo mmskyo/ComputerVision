@@ -1,6 +1,24 @@
 # Computer Vision and Deep Learning
+## Detecting Objects(up to 3 objects) using YOLO version 3!
+<details>
+  <summary>click to view</summary>
+  <div markdown = "1">
+    
+cited
+@Article{yolov3,
+title={YOLOv3: An Incremental Improvement},
+author={Redmon, Joseph and Farhadi, Ali},
+journal = {arXiv},
+year={2018}
+}
+</div>
+</details>
 
 ## recognizing image using CIFAR10
+<details>
+<summary>click to view</summary>
+
+<div markdown = "1">
 
 accuracy and loss graph
 
@@ -152,5 +170,4 @@ ReLU Layer
 - 데이터의 원래 구조를 유지
 - 특징학습을 통해 최적의 특징을 추출
 - 신경망의 깊이를 깊게하는 것이 가능하다.
-
-    
+</details>
