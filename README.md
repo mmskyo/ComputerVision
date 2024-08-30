@@ -3,7 +3,8 @@
 <details>
   <summary>click to view</summary>
   <div markdown = "1">
-    
+    #### result
+    https://github.com/mmskyo/ComputerVision/blob/mmskyo-detection/yolov3_still_image.py
 cited
 @Article{yolov3,
 title={YOLOv3: An Incremental Improvement},
@@ -42,7 +43,14 @@ result being
 using pre-trained model 'cnn_v2'
 ![postcode_v 2_result](https://github.com/user-attachments/assets/1fe0f413-61de-4981-a10f-9943f6b31b5c)
 
+</div>
+</details>
 
+
+<details>
+<summary><b>Convolution Layers</b></summary>
+
+<div markdown = "1">
 
 
 # 개념
@@ -170,4 +178,6 @@ ReLU Layer
 - 데이터의 원래 구조를 유지
 - 특징학습을 통해 최적의 특징을 추출
 - 신경망의 깊이를 깊게하는 것이 가능하다.
+
+  </div>
 </details>
