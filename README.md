@@ -46,14 +46,11 @@ using pre-trained model 'cnn_v2'
 </div>
 </details>
 
-
+# 개념
 <details>
 <summary><b>Convolution Layers</b></summary>
 
 <div markdown = "1">
-
-
-# 개념
 
 ## 컨볼루션 신경망을 이용한 자연 영상 인식
 
