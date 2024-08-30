@@ -3,8 +3,10 @@
 <details>
   <summary>click to view</summary>
   <div markdown = "1">
-    #### result
-    ![yolo_v3_pyqt5](https://github.com/user-attachments/assets/43568565-7a9f-4535-8ca7-601b5d1b4aad)
+
+#### result
+
+![yolo_v3_pyqt5](https://github.com/user-attachments/assets/43568565-7a9f-4535-8ca7-601b5d1b4aad)
 
 cited
 @Article{yolov3,
