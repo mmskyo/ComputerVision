@@ -18,6 +18,18 @@ year={2018}
 </div>
 </details>
 
+## Safer Street for the Traffic Weak
+교통 약자 보호구역 알림 시스템
+sift를 사용한 교통 표지판 인식기
+
+<details>
+  <summary>click to view</summary>
+  <div markdown = "1">
+    ![TrafficWeakAlertResult](https://github.com/user-attachments/assets/e997f6e7-1b9e-4930-92ce-2a0311a6c9a0)
+
+  </div>
+</details>
+
 ## recognizing image using CIFAR10
 <details>
 <summary>click to view</summary>
